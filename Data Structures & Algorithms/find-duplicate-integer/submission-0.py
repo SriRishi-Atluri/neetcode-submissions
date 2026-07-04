@@ -7,6 +7,3 @@ class Solution:
                 return num 
 
             seen.add(num)
-        
-        
-        
