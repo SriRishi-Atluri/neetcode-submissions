@@ -8,4 +8,3 @@ class Solution:
                 palindrome_string += c
 
         return palindrome_string == palindrome_string[::-1]
-        
